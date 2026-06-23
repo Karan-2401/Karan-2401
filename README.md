@@ -2,7 +2,7 @@
 
 Full Stack Developer passionate about building modern web applications, SaaS products, and AI-powered solutions.
 
-## 🚀 About Me
+## About Me
 
 * 💼 Around 1 year of experience as a Web Development Intern
 * 💻 Building web applications with React, Next.js, Node.js, and MongoDB
@@ -11,7 +11,7 @@ Full Stack Developer passionate about building modern web applications, SaaS pro
 * 🔨 Working on projects such as a SaaS Website Builder and AI Study Assistant
 * 🎯 Focused on writing clean, scalable, and efficient code
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:** HTML, CSS, JavaScript, React, Next.js
 
@@ -21,7 +21,7 @@ Full Stack Developer passionate about building modern web applications, SaaS pro
 
 **Tools:** Git, GitHub
 
-## 📌 Current Focus
+## Current Focus
 
 * Data Structures & Algorithms
 * Computer Science Fundamentals
